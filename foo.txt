@@ -1,1 +1,2 @@
-Sunday
+Saturday Sunday
+>>>>>>> 388eaa1 (fixed foo in fix1)
